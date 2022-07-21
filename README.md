@@ -1,4 +1,4 @@
-# My personal Portfolio with Three.js
+# Tik-Tac-Toe Game 
 
 ## Authors
 
