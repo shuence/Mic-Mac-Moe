@@ -1,5 +1,8 @@
 # Tik-Tac-Toe Game 
 
+<a href="(https://micmacmoee.netlify.app/)">Play game</a>
+
+
 ## Authors
 
 - [@shuence](https://www.github.com/shuence)
